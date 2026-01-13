@@ -24,22 +24,3 @@ This project uses an API key.
 window.CONFIG = {
   WEATHERAPI_KEY: "YOUR_API_KEY_HERE",
 };
-
-
-
-🔐 **API Key Security**
-
-`apiKey.js` is ignored using `.gitignore` for security purposes
-
----
-
-## ▶️ How to Run
-
-Simply open `index.html` in your browser.
-
----
-
-## 📌 Notes
-
-- Default location: Kolkata, India  
-- Built as a beginner-friendly JavaScript project
