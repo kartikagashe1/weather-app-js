@@ -7,6 +7,10 @@ A simple weather application that shows real-time weather information for any ci
 - Real-time temperature and conditions
 - Clean and responsive UI
 
+## 📸 Screenshot
+![Weather App](screenshots/app.png)
+
+
 ## 🛠 Tech Stack
 - HTML
 - CSS
@@ -24,3 +28,5 @@ This project uses an API key.
 window.CONFIG = {
   WEATHERAPI_KEY: "YOUR_API_KEY_HERE",
 };
+
+
