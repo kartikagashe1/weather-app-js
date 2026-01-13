@@ -10,9 +10,6 @@ A simple weather application that shows real-time weather information for any ci
 ## 📸 Screenshots
 
 ![Weather App 1](screenshots/App1.png)
-![Weather App 2](screenshots/App2.png)
-![Weather App 3](screenshots/App3.png)
-
 
 
 ## 🛠 Tech Stack
