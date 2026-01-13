@@ -19,15 +19,17 @@ This project uses an API key.
 1. Copy `apiKey.example.js`
 2. Rename it to `apiKey.js`
 3. Add your API key inside:
+
 ```js
 window.CONFIG = {
   WEATHERAPI_KEY: "YOUR_API_KEY_HERE",
 };
 
 
+
 🔐 **API Key Security**
 
-`apiKey.js` is ignored using `.gitignore` for security purposes.
+`apiKey.js` is ignored using `.gitignore` for security purposes
 
 ---
 
